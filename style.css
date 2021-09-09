@@ -73,3 +73,10 @@
     background: coral; 
     transition: .5s;
 }
+@media(max-width: 700px){
+    .welcome-msg h1
+{
+    font-size: 40px;
+    font-weight: 100;
+}
+}
